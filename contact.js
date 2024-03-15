@@ -1,11 +1,6 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyBUps4KCXd4kWi2tm6diHXG0hhfBsDo6fQ",
-    authDomain: "portfolio-cbc6e.firebaseapp.com",
-    databaseURL: "https://portfolio-cbc6e-default-rtdb.firebaseio.com",
-    projectId: "portfolio-cbc6e",
-    storageBucket: "portfolio-cbc6e.appspot.com",
-    messagingSenderId: "629309108296",
-    appId: "1:629309108296:web:a9adba8bcae06ab9e5a87d"
+    //CONFIG KEY
+    
   };
   // initialize firebase
    firebase.initializeApp(firebaseConfig);
